@@ -1,0 +1,27 @@
+Buscador de Películas 🎥
+
+Aplicación web que permite buscar películas consumiendo una API externa (the movie data base) y mostrar los resultados de forma dinámica y atractiva.
+
+Este proyecto fue especialmente útil para aprender el consumo de APIs y mejorar la presentación visual de información obtenida desde servicios externos.
+
+🚀 Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
+- API de películas
+
+✨ Funcionalidades
+- Búsqueda de películas por nombre
+- Consumo de API externa
+- Renderizado dinámico de resultados
+- Manejo de errores y estados vacíos
+- Diseño visual enfocado en la experiencia del usuario
+- Diseño responsive
+-validaciones de formularios
+
+🎯 Objetivo del proyecto
+Aprender a consumir APIs, manejar datos externos y presentarlos de forma clara y atractiva, simulando el comportamiento de aplicaciones reales.
+
+## 🔗 Enlaces
+- Demo: https://buscador-peliculas-danielperdomo.netlify.app/
+- Código: *(GitHub repo)*
